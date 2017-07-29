@@ -13,5 +13,6 @@ namespace GestImmob
     /// </summary>
     public partial class App : Application
     {
+        ok
     }
 }
