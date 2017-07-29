@@ -9,6 +9,6 @@
       Title="Bla">
 
     <Grid>
-        <Label Content="Test"/>
+        <Label Content="Test2"/>
     </Grid>
 </Page>
