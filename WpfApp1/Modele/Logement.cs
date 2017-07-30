@@ -8,5 +8,6 @@ namespace WpfApp1.Modele
 {
     class Logement
     {
+        int bla;
     }
 }
